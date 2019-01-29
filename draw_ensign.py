@@ -1,7 +1,7 @@
 from turtle import*
 from math import*
 
-title("Draw Ensign")
+title("Draw Ensign <3")
 
 l_star_yellow = 100
 height = l_star_yellow*sin(radians(72))
